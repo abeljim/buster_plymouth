@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=buster
+Description=busterbootloop
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/buster/buster_loop
+ScriptFile=/usr/share/plymouth/themes/buster/animated-boot.script
