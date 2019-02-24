@@ -1,3 +1,5 @@
+CC=gcc
+ARGS=-Wall -g
 
 install:
         mkdir -p $(root)/usr/share/plymouth/themes/buster
