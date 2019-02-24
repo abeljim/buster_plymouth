@@ -1,4 +1,4 @@
 
 install:
-        mkdir -p /usr/share/plymouth/themes/buster
-        cp -R src /usr/share/plymouth/themes/buster
+        mkdir -p $(root)/usr/share/plymouth/themes/buster
+        cp -R src $(root)/usr/share/plymouth/themes/buster
